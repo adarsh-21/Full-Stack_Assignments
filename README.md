@@ -1,15 +1,8 @@
-# FullStack-1
-This is my repo for Full Stack lab
+Full Stack Assignments 
 
-## Description 
+# Description 
+This repository contains all my practical Assignment
 
-This is a simple web page which contains all my practical Assignment
-
-## Table of Contents
-
-* [Installation](#installation)
-
-
-## Installation
+# Installation
 
 To install, copy and paste all files onto a server and point the server root at index.html
